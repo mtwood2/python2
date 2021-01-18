@@ -1,0 +1,51 @@
+Rank,Airport,Airport Code,Country,Total Passengers
+1,Hartsfield Jackson Atlanta International Airport,ATL,United States,104171935
+2,Beijing Capital International Airport,PEK,China,94393454
+3,Dubai International Airport,DXB,United Arab Emirates,83654250
+4,Los Angeles International Airport,LAX,United States,80921527
+5,Tokyo International Airport,HND,Japan,79699762
+6,O'Hare International Airport,ORD,United States,78327479
+7,Heathrow Airport,LHR,United Kingdom,75715474
+8,Hong Kong International Airport,HKG,China,70314462
+9,Shanghai Pudong International Airport,PVG,China,66002414
+10,Charles de Gaulle Airport,CDG,France,65933145
+11,Dallas/Fort Worth International Airport,DFW,United States,65670697
+12,Amsterdam Airport Schiphol,AMS,The Netherlands,63625534
+13,Frankfurt Airport,FRA,Germany,60786937
+14,Istanbul Atatark Airport,IST,Turkey,60248741
+15,Guangzhou Baiyun International Airport,CAN,China,59732147
+16,John F. Kennedy International Airport,JFK,United States,58813103
+17,Singapore Changi Airport,SIN,Singapore,58698000
+18,Denver International Airport,DEN,United States,58266515
+19,Seoul Incheon International Airport,ICN,Republic of Korea,57849814
+20,Suvarnabhumi Airport,BKK,Thailand,55892428
+21,Indira Gandhi International Airport,DEL,India,55631385
+22,Soekarnoa Hatta International Airport,CGK,Indonesia,54969536
+23,San Francisco International Airport,SFO,United States,53099282
+24,Kuala Lumpur International Airport,KUL,Malaysia,52640043
+25,Madrid Barajas Airport,MAD,Spain,50397928
+26,McCarran International Airport,LAS,United States,47496614
+27,Chengdu Shuangliu International Airport,CTU,China,46039137
+28,Seattle-Tacoma International Airport,SEA,United States,45736700
+29,Chhatrapati Shivaji International Airport,BOM,India,44680555
+30,Miami International Airport,MIA,United States,44584603
+31,Charlotte Douglas International Airport,CLT,United States,44422022
+32,Toronto Pearson International Airport,YYZ,Canada,44335198
+33,Barcelona El Prat Airport,BCN,Spain,44131031
+34,Phoenix Sky Harbor International Airport,PHX,United States,43302381
+35,Gatwick Airport,LGW,United Kingdom,43136795
+36,Taiwan Taoyuan International Airport,TPE,Taiwan,42296322
+37,Munich Airport,MUC,Germany,42261309
+38,Sydney Kingsford-Smith Airport,SYD,Australia,41985810
+39,Kunming Changshui International Airport,KMG,China,41980515
+40,Shenzhen Bao'an International Airport,SZX,China,41975090
+41,Orlando International Airport,MCO,United States,41923399
+42,Leonardo da Vincia Fiumicino Airport,FCO,Italy,41738662
+43,George Bush Intercontinental Airport,IAH,United States,41622594
+44,Benito Juarez International Airport,MEX,Mexico,41410254
+45,Shanghai Hongqiao International Airport,SHA,China,40460135
+46,Newark Liberty International Airport,EWR,United States,40289969
+47,Ninoy Aquino International Airport,MNL,Philippines,39534991
+48,Narita International Airport,NRT,Japan,39000563
+49,Minneapolis/St Paul International Airport,MSP,United States,37413728
+50,Hamad International Airport,DOH,Qatar,37283987
